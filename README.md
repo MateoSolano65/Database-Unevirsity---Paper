@@ -31,3 +31,8 @@ Este proyecto consiste en la implementación de bases de datos para dos escenari
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Backups
+
+Se proporcionan archivos de backup de las bases de datos en formato `.bak` para facilitar la restauración de las bases de datos en SQL Server.
+Estos se encuentran en la carpeta `Backups`.

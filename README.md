@@ -36,3 +36,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 Se proporcionan archivos de backup de las bases de datos en formato `.bak` para facilitar la restauración de las bases de datos en SQL Server.
 Estos se encuentran en la carpeta `Backups`.
+
+## Punto 2 (Querys)
+
+- Adicionalmente, se proporcionan archivos con las querys solicitadas de los 10 puntos en la carpeta `Querys`.

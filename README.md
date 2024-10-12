@@ -84,7 +84,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ## Backups
 
 Se proporcionan archivos de backup (`.bak`) en la carpeta `Backups` para facilitar la restauración de la base de datos en SQL Server.
-
-## Queries Adicionales
-
-- En la carpeta `Querys` se encuentran archivos con consultas adicionales que resuelven los 10 puntos solicitados como parte de los ejercicios propuestos.
